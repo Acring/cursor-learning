@@ -1,0 +1,12 @@
+1. add 加法函数
+2. heapsort 堆排序算法
+3. binarySearch 二分查找算法
+4. mergeSort 归并排序算法
+5. divide 除法算法
+6. dijkstra Dijkstra最短路径算法
+7. selectionSort 选择排序算法
+8. breadthFirstSearch 广度优先搜索算法
+9. bubbleSort 冒泡排序算法
+10. depthFirstSearch 深度优先搜索算法
+11. quickSort 快速排序算法
+12. knapsack 0/1背包问题算法

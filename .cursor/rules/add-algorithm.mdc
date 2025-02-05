@@ -2,4 +2,4 @@
 description: 当用户想要添加一个算法及其对应的学习笔记的时候，调用此规则
 globs: 
 ---
-根据用户输入，在 lib/algorithm 下新增一个算法, 然后在 doc 下补充对应的学习笔记
+根据用户输入，在 lib/algorithm 下新增一个算法, 然后在 doc 下补充对应的学习笔记，并在 [log.md](mdc:log/log.md) 中补充新增的算法 
